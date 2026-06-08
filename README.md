@@ -9,9 +9,9 @@ MISSION PARAMETERS............................LOADED
 REPOSITORY STATUS.............................ACTIVE
 
 AGENT STATUS..................................ONLINE
-```
 
-```
+
+
 SCANNING DATABASE FOR AGENT Fade2BlackOps...
 RESULT FOUND.  PRINTING RESULTS...
 
@@ -29,7 +29,7 @@ RESULT FOUND.  PRINTING RESULTS...
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
+
 
 ## `SYSTEM_BOOT`
 
@@ -42,7 +42,7 @@ RESULT FOUND.  PRINTING RESULTS...
 > connection established.
 ```
 
----
+
 
 ## `AGENT_PROFILE`
 
