@@ -76,71 +76,6 @@ I like projects that combine logic, creativity, structure, and problem-solving �
 └───────────────────────────────────────────────────────────────┘
 ```
 
-## `CURRENT_OBJECTIVES`
-
-```txt
-[ACTIVE]  Improve programming fundamentals
-[ACTIVE]  Build portfolio-ready projects
-[ACTIVE]  Learn modern development tools
-[ACTIVE]  Strengthen problem-solving skills
-[ACTIVE]  Ship more, overthink less
-```
-
-### Mission Board
-
-| Priority | Objective | Status |
-|---:|---|---|
-| 01 | Learn and practice core programming concepts | `IN PROGRESS` |
-| 02 | Build projects worth showing publicly | `IN PROGRESS` |
-| 03 | Improve GitHub workflow and documentation | `ACTIVE` |
-| 04 | Explore AI, automation, or backend systems | `QUEUED` |
-| 05 | Keep improving one commit at a time | `ONGOING` |
-
----
-
-## `CURRENTLY_LEARNING`
-
-```yaml
-languages:
-  - Python
-  - JavaScript
-  - HTML/CSS
-
-tools:
-  - Git
-  - GitHub
-  - VS Code
-
-concepts:
-  - data structures
-  - algorithms
-  - web development
-  - clean code
-  - project architecture
-```
-
----
-
-## `TECH_LOADOUT`
-
-```txt
-Primary Weapons:
-  > Python
-  > JavaScript
-  > HTML / CSS
-
-Tactical Kit:
-  > Git
-  > GitHub
-  > VS Code
-  > Markdown
-
-Utility Systems:
-  > Debugging
-  > Documentation
-  > Problem Solving
-  > Learning Fast
-```
 
 You can also swap this section for badges:
 
@@ -153,7 +88,6 @@ You can also swap this section for badges:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ```
 
----
 
 ## `PROJECT_ARCHIVE`
 
