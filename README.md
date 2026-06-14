@@ -20,61 +20,13 @@ ISAC: > search --self
 │ Mission Type:     Learn • Build • Deploy • Improve           │
 └──────────────────────────────────────────────────────────────┘
 
-
-> ISAC node detected...
-> authenticating SHD credentials...
-> syncing local repositories...
-> scanning active objectives...
-> loading agent profile...
-> connection established.
-```
-
-
-
-## `AGENT_PROFILE`
-
-```js
-const agent = {
-  name: "Vasil",
-  handle: "YOUR_GITHUB_USERNAME",
-  classification: "Developer / Master's Student / Problem Solver",
-  baseOfOperations: "YOUR LOCATION OR ONLINE",
-  currentStatus: "Active",
-  interests: [
-    "software development",
-    "video games",
-    "AI",
-    "systems",
-    "automation",
-    "creative projects",
-    "Tom Clancy's The Division"
-  ],
-  operatingMode: "learning by building",
-  missionDirective: "improve one commit at a time"
-};
-```
-
-I’m a developer-in-progress focused on building useful projects, sharpening my technical skills, and turning curiosity into working code.
-
-I like projects that combine logic, creativity, structure, and problem-solving — the kind of work where every bug fixed feels like reclaiming another block of the city.
-
----
-
-## `PRIMARY_DIRECTIVES`
-
-```txt
 [DIRECTIVE 01] Secure the codebase
 [DIRECTIVE 02] Improve technical proficiency
 [DIRECTIVE 03] Build deployable projects
 [DIRECTIVE 04] Document the mission
 [DIRECTIVE 05] Keep learning under pressure
-```
 
----
 
-## `CURRENT_OBJECTIVES`
-
-```txt
 ISAC: New mission objectives available.
 
 [ACTIVE]  Strengthen programming fundamentals
@@ -83,7 +35,11 @@ ISAC: New mission objectives available.
 [ACTIVE]  Learn modern development tools
 [ACTIVE]  Write cleaner, more maintainable code
 [ONGOING] Stay consistent and keep shipping
-```
+
+I’m a developer-in-progress focused on building useful projects, sharpening my technical skills, and turning curiosity into working code.
+
+I like projects that combine logic, creativity, structure, and problem-solving — the kind of work where every bug fixed feels like reclaiming another block of the city.
+
 
 | Priority | Objective                                  | Status        |
 | -------: | ------------------------------------------ | ------------- |
@@ -94,61 +50,30 @@ ISAC: New mission objectives available.
 |       05 | Refactor old code and improve structure    | `QUEUED`      |
 |       06 | Keep learning through hands-on projects    | `ONGOING`     |
 
----
 
-## `CURRENTLY_LEARNING`
-
-```yaml
-active_training:
-  languages:
-    - Python
-    - JavaScript
-    - HTML
-    - CSS
-
-  tools:
-    - Git
-    - GitHub
-    - VS Code
-    - Markdown
-
-  concepts:
-    - data structures
-    - algorithms
-    - web development
-    - clean code
-    - debugging
-    - project architecture
-
-  status: "training in progress"
-```
-
----
-
-## `TECH_LOADOUT`
 
 ```txt
 ┌─ PRIMARY SYSTEMS ─────────────────────────────────────────────┐
-│ Python                                                       │
-│ JavaScript                                                   │
-│ HTML / CSS                                                   │
-└──────────────────────────────────────────────────────────────┘
+│ Python                                                        │
+│ JavaScript                                                    │
+│ HTML / CSS                                                    │
+└───────────────────────────────────────────────────────────────┘
 
 ┌─ FIELD TOOLS ─────────────────────────────────────────────────┐
-│ Git                                                          │
-│ GitHub                                                       │
-│ VS Code                                                      │
-│ Markdown                                                     │
-└──────────────────────────────────────────────────────────────┘
+│ Git                                                           │
+│ GitHub                                                        │
+│ VS Code                                                       │
+│ Markdown                                                      │
+└───────────────────────────────────────────────────────────────┘
 
 ┌─ AGENT SKILLS ────────────────────────────────────────────────┐
-│ Debugging                                                    │
-│ Documentation                                                │
-│ Problem Solving                                              │
-│ Research                                                     │
-│ Systems Thinking                                             │
-│ Learning Fast                                                │
-└──────────────────────────────────────────────────────────────┘
+│ Debugging                                                     │
+│ Documentation                                                 │
+│ Problem Solving                                               │
+│ Research                                                      │
+│ Systems Thinking                                              │
+│ Learning Fast                                                 │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ## `CURRENT_OBJECTIVES`
