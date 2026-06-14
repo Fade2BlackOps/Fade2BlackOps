@@ -1,4 +1,4 @@
-```
+```bash
 Fade2BlackOps@SHD-Node2157:~$ isac info Fade2BlackOps
 > ISAC SEARCH SERVICE ver. 2026.6.14
 
