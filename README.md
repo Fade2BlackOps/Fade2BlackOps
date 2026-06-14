@@ -18,10 +18,9 @@ Fade2BlackOps@SHD-Node2157:~$ isac info Fade2BlackOps
 │ Signal:           Online                                     │
 │ Mission Type:     Learn • Build • Deploy • Improve           │
 └──────────────────────────────────────────────────────────────┘
-```
 
+//end_response.
 
-```bash
 > ISAC node detected...
 > authenticating SHD credentials...
 > syncing local repositories...
