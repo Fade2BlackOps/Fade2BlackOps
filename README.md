@@ -2,10 +2,10 @@
 Fade2BlackOps@SHD-Node2157:~$ isac info
 > ISAC SEARCH SERVICE ver. 2026.6.14
 
-Fade2BlackOps@SHD-Node2157:~$ isac search --self
-> CONNECTING TO DATABASE "com.github.users"................................OK
-> SCANNING DATABASE FOR USER Fade2BlackOps.................................OK
-> RESULT FOUND.  PRINTING RESULTS TO TERMINAL:
+ISAC: > search --self
+// CONNECTING TO DATABASE "com.github.users"................................OK
+// SCANNING DATABASE FOR USER Fade2BlackOps.................................OK
+// RESULT FOUND.  PRINTING RESULTS TO TERMINAL:
 
 ┌──────────────────────────────────────────────────────────────┐
 │                        ISAC NETWORK                          │
