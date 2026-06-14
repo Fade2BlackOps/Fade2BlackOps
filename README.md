@@ -1,10 +1,10 @@
 ```
 Fade2BlackOps@SHD-Node2157:~$ isac info Fade2BlackOps
-ISAC SEARCH SERVICE ver. 2026.6.14
+> ISAC SEARCH SERVICE ver. 2026.6.14
 
-CONNECTING TO DATABASE "com.github.users"................................OK
-SCANNING DATABASE FOR USER Fade2BlackOps.................................OK
-RESULT FOUND.  PRINTING RESULTS...
+> CONNECTING TO DATABASE "com.github.users"................................OK
+> SCANNING DATABASE FOR USER Fade2BlackOps.................................OK
+> RESULT FOUND.  PRINTING RESULTS...
 
 ┌──────────────────────────────────────────────────────────────┐
 │                        ISAC NETWORK                          │
