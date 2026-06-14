@@ -1,6 +1,3 @@
-# `ISAC_PROFILE.sys`
-
-```
 VI-5757 :: PILOT LINK ESTABLISHED
 
 SYSTEM CHECK..................................ONLINE
